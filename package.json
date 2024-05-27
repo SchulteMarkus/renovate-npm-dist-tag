@@ -1,0 +1,23 @@
+{
+  "name": "renovate-npm-dist-tag",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SchulteMarkus/renovate-npm-dist-tag.git"
+  },
+  "keywords": [
+    "Renovate",
+    "npm-dist-tag"
+  ],
+  "author": "Markus Schulte <mail@schulte-development.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SchulteMarkus/renovate-npm-dist-tag/issues"
+  },
+  "homepage": "https://github.com/SchulteMarkus/renovate-npm-dist-tag#readme"
+}
