@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SchulteMarkus/renovate-npm-dist-tag/issues"
   },
-  "homepage": "https://github.com/SchulteMarkus/renovate-npm-dist-tag#readme"
+  "homepage": "https://github.com/SchulteMarkus/renovate-npm-dist-tag#readme",
+  "devDependencies": {
+    "nx": "canary"
+  }
 }
